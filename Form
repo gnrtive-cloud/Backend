@@ -1,0 +1,15 @@
+    </section>
+
+
+    <!-- Submission Form Section -->
+    <section class="mt-12 pb-20 px-4 sm:px-6 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+            <div class="w-full bg-white p-8 sm:p-10 rounded-2xl shadow-2xl border border-teal-200">
+                <header class="mb-8 text-center">
+                    <h1 class="text-3xl sm:text-4xl font-extrabold text-blue-900 leading-tight">
+                        Best Small-Medium Business lenders 2025
+                    </h1>
+                    <p class="mt-4 text-blue-500">
+                        Please provide your essential details and loan request amount.
+                    </p>
+                </header>
